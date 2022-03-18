@@ -1,0 +1,1 @@
+# Qt5-cpp_Shannon-Fano_and_Huffman_algos
