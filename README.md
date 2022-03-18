@@ -13,7 +13,7 @@ $ sudo apt install graphviz
 Being in the directory with the program, perform the following actions:
 
 1) $ qmake (Automatically generates a Makefile)
-2) $ make (PNG_editor executable is created)
+2) $ make (Graph_algos executable is created)
 3) $ ./Graph_algos (The program starts) 
 
 ## Launch example
@@ -41,7 +41,7 @@ $ sudo apt install graphviz
 Находясь в директории с программой, выполняем следующие действия:
 
 1) $ qmake        (Автоматически генерирует Makefile)
-2) $ make         (Создается исполняемый файл PNG_editor)
+2) $ make         (Создается исполняемый файл Graph_algos)
 3) $ ./Graph_algos (Запускается программа)
 
 ## Пример запуска
